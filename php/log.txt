@@ -1,6 +1,0 @@
-2021-10-23 12:13:22
-{"authorized":false,"fail":0}
-2021-10-23 12:13:49
-{"authorized":false,"fail":0}
-2021-10-23 12:14:02
-{"authorized":true,"fail":0}
