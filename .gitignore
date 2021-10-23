@@ -19,5 +19,6 @@ vqmod/vqcache/*
 vqmod/checked.cache
 vqmod/mods.cache
 
+logs
 *.log
-.txt
+*.txt
